@@ -1,4 +1,5 @@
 # Dangerous-Trojan
-Bardzo groźne wirusy, które usuwają cały system Windows lub nadpisują MasterBootRecord
-Nie włączać tego na orginalnym systemie! 
-Wirusy tylko w celu edukacyjnym
+Most dangerous virus (malware) !! 
+The author is not liable for any damages !!
+Do not turn on on the original system!
+Open on a virtual machine. Viruses were created for educational purposes!
